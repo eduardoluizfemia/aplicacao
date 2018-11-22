@@ -38,6 +38,12 @@ Expressões regulares usadas na validação de formulários
 
 ## Upgrade para Angular 4.3
 
+## meus
+git checkout master
+git pull origin master
+git merge aplicationTest
+git push origin master
+
 Dependências dos pacotes que devem ficar em package.json:
 
 ```
