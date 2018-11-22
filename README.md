@@ -36,6 +36,12 @@ Expressões regulares usadas na validação de formulários
 
 `/^[0-9]*$/`
 
+## meus
+git checkout master
+git pull origin master
+git merge aplicationTest
+git push origin master
+
 ## Upgrade para Angular 4.3
 
 Dependências dos pacotes que devem ficar em package.json:
